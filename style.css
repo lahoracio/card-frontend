@@ -14,7 +14,7 @@ a {
 }
 
 .menu{
-    background-color: blue;
+    background-color: black;
     justify-content: end;
     display: flex;
     color: white;
